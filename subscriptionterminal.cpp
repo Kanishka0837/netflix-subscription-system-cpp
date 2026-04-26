@@ -1,8 +1,8 @@
 // ============================================================
 //  Netflix Subscription Management System
 //  OOP using C++ — Console Based
-//  Team: Grishma Bidkar, Kanishka Malpani,
-//        Shruti Kuril, Utkarsha Patil
+//  By Kanishka Malpani
+//        
 // ============================================================
 
 #include <iostream>
